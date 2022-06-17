@@ -1,0 +1,40 @@
+/* digital-dream */
+@font-face {
+  font-family: 'Digital Dream';
+  src: url('./digital-dream/DIGITALDREAM.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Digital Dream Fat';
+  src: url('./digital-dream/DIGITALDREAMFAT.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Digital Dream Skew';
+  src: url('./digital-dream/DIGITALDREAMSKEW.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Digital Dream Narrow';
+  src: url('./digital-dream/DIGITALDREAMNARROW.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Digital Dream Fat Skew';
+  src: url('./digital-dream/DIGITALDREAMFATSKEW.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Digital Dream Fat Narrow';
+  src: url('./digital-dream/DIGITALDREAMFATNARROW.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Digital Dream Skew Narrow';
+  src: url('./digital-dream/DIGITALDREAMSKEWNARROW.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Digital Dream Fat Skew Narrow';
+  src: url('./digital-dream/DIGITALDREAMFATSKEWNARROW.ttf') format('truetype');
+}
